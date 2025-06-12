@@ -149,6 +149,7 @@ He formado parte de **Code Society**, donde brindé talleres de formación en se
 ¡Siempre abierto a colaborar, aprender y compartir!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Zelmar%20Mohozzo-blue?style=flat\&logo=linkedin)](https://www.linkedin.com/)
+
 [📧 Email](mailto:tuemail@example.com)
 
 ---
