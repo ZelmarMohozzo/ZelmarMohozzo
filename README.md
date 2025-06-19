@@ -60,7 +60,7 @@ He formado parte de **Code Society**, donde brindé talleres de formación en se
 * Explorando nuevas tecnologías y frameworks 💡
 * Colaborando en proyectos que combinan **desarrollo** + **seguridad** 🔐
 * Formando nuevas generaciones en el mundo tech 👨‍🎓
-* 📊 Participando en el proyecto **APPSU - Análisis de Datos**
+* 📊 Participando en el proyecto **LATAM DATA HUB - Análisis de Datos**
 * 🖋️ Desarrollando una plataforma para una **Academia de Tatuajes**
 * 🔍 ¡Siempre en busca de nuevos desafíos y proyectos para sumar a mi lista!
 
